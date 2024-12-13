@@ -144,3 +144,5 @@ wandb
 cache/
 
 __*.sh
+
+/models
